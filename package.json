@@ -1,0 +1,19 @@
+{
+  "name": "watchmen-ping-file-exists",
+  "version": "1.0.0",
+  "description": "A file existence ping service for watchmen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanpund/watchmen-ping-file-exists.git"
+  },
+  "author": "Jonathan Pund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanpund/watchmen-ping-file-exists/issues"
+  },
+  "homepage": "https://github.com/jonathanpund/watchmen-ping-file-exists#readme"
+}
